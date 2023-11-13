@@ -21,4 +21,4 @@ Apply and compare the performance of the following models:
 
 Develop a model validation pipeline (e.g., using k-fold cross-validation or a held-out validation set) and study the effect of different hyperparameters or design choices. In a single table, compare and report the performance of the above-mentioned models (with their best hyperparameters), and mark the winner for each dataset and overall.
 
-Write up link: https://docs.google.com/document/d/1SRqaRYDnw2FGjYH_la-4XQuou89oR0pvphB_mIf9MpU/edit?usp=sharing
+Write up link: https://docs.google.com/document/d/1ahdQ8ISvozx6k9v8kkgFOoUbRP_0sb2WsBBvcL3A-fw/edit#heading=h.hiwmdv20gc39
